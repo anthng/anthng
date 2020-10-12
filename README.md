@@ -35,6 +35,9 @@ HOBBIES = [
 ![Anthng's github stats](https://github-readme-stats.vercel.app/api?username=anthng&show_icons=true&hide_border=true)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--
