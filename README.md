@@ -3,7 +3,7 @@
 
 I'm curious about data and real-world problems that's why I love to discover data, visualize data, extract insights, etc. Especially, I want to apply my knowledge in Machine Learning/AI to solve problems.
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=anthng.visitor-badge)](https://github.com/anthng) [![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/anthng) [![Linkedin: AnNguyen](https://img.shields.io/badge/-anthng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthng/)](https://www.linkedin.com/in/anthng/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=anthng.visitor-badge)](https://github.com/anthng) [![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/anthng/repositories) [![Linkedin: AnNguyen](https://img.shields.io/badge/-anthng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthng/)](https://www.linkedin.com/in/anthng/)
 
 ### About me
 ----
