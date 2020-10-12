@@ -1,5 +1,5 @@
 ### Hi there, I'm An
-*Senior Studdent at [HCMC University of Transport](https://ut.edu.vn/en/)*
+*Senior Student at [HCMC University of Transport](https://ut.edu.vn/en/)*
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=anthng.visitor-badge)](https://github.com/anthng) [![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/anthng) [![Linkedin: AnNguyen](https://img.shields.io/badge/-anthng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthng/)](https://www.linkedin.com/in/anthng/)
 <hr>
