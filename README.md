@@ -32,7 +32,7 @@ HOBBIES = [
 ----
 
 ![Anthng's github stats](https://github-readme-stats.vercel.app/api?username=anthng&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthng&hide=PHP,jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthng&hide=jupyter%20notebook)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthng&hide=PHP,jupyter%20notebook,html,css,javascript)-->
 
 
