@@ -28,6 +28,9 @@ HOBBIES = [
   "Photography",
   "Sports"
 ]
+
+if is_interested(this_repo):
+  this_repo.start()
 ```
 ----
 
@@ -35,10 +38,4 @@ HOBBIES = [
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthng&langs_count=5&layout=compact&hide=jupyter%20notebook)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthng&hide=PHP,jupyter%20notebook,html,css,javascript)-->
 
-
-----
-```python
-if is_interested(this_repo):
-  this_repo.start()
-```
 ----
