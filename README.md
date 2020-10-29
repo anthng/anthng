@@ -30,7 +30,7 @@ HOBBIES = [
 ]
 
 if is_interested(this_repo):
-  this_repo.start()
+  this_repo.star()
 ```
 ----
 
