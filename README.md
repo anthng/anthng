@@ -3,36 +3,9 @@
 
 I'm curious about data and real-world problems that's why I love to discover data, visualize data, extract insights, etc. Especially, I want to apply my knowledge in Machine Learning/AI to solve problems.
 
+## [Visit my page](https://anthng.github.io)
+
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=anthng.visitor-badge)](https://github.com/anthng) [![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/anthng/repositories) [![Linkedin: AnNguyen](https://img.shields.io/badge/-anthng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthng/)](https://www.linkedin.com/in/anthng/) [![Youtube: AnNguyen](https://img.shields.io/static/v1?label=anthng&message=youtube&color=critical)](https://www.youtube.com/channel/UCtsWad9VKFdDjVP1o3xfVSQ) [![Youtube: AnNguyen](https://img.shields.io/static/v1?label=anthng&message=personal&color=green)](https://anthng.github.io/)
-
-### About me
-----
-```python
-FIELDS_OF_INTEREST = [
-  "Natural Language Processing",
-  "Spatial Temporal Mining"
-  "Computer Vision",
-  "Data Mining",
-]
-
-TECHINICAL_SKILLS = {
-  "Programming Languages": ['Python', 'C#', 'Java', 'C++'],
-  "Frameworks": ['Keras', 'Tensorflow', 'Pytorch', 'Flask'],
-  "Libraries": ['Scikit-learn', 'Pandas', 'Gensim', 'OpenCV', 'Folium', 'Matplotlib'],
-  "Others": ['Git', 'Linux']
-}
-
-HOBBIES = [
-  "Reading Research Papers",
-  "Knowledge Sharing",
-  "Photography",
-  "Sports"
-]
-
-if is_interested(this_repo):
-  this_repo.star()
-```
-----
 
 ![Anthng's github stats](https://github-readme-stats.vercel.app/api?username=anthng&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthng&langs_count=5&layout=compact&hide=html,css,jupyter%20notebook)
