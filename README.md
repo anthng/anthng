@@ -1,5 +1,4 @@
 ## Hi there, I'm An 👋
-*Senior Student at [HCMC University of Transport](https://ut.edu.vn/en/)*
 
 ## [Visit my page](https://anthng.github.io)
 
